@@ -6,7 +6,7 @@ Project Environments:
 - IDE: RStudio
 - Language: R
 - Packages: RShiny (for building interative web applications directly from R)
-- Tools: GitlLab, Trello's Kanban Boards, Google Drive (file sharing), Discord, WhatsApp
+- Tools: GitlLab, Trello's Kanban Boards, Google Drive (file sharing), Discord, WhatsApp  
 
 <b> Article Classification Model </b>
 - Classify the findability of the uploaded article based on the placement of text.
