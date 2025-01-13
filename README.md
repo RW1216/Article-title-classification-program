@@ -1,6 +1,6 @@
 # FIT3164_MDS9
 
-Final Year Project in Computer Science specialized in Data Science during university. This project was done in group of 3, consisting of 2 semesters (1 year).  
+Final Year Project in Computer Science specialized in Data Science during university. This project was completed in a group of 3, consisting of 2 semesters (1 year).  
 
 Project Environments:  
 - IDE: RStudio
