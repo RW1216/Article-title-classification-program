@@ -1,5 +1,7 @@
 # FIT3164_MDS9
 
+Final Year Project in Computer Science specialized in Data Science during university. This project was done in group of 3, consisting of 2 semesters (1 year). 
+
 <b> Article Classification Model </b>
 - Classify the findability of the uploaded article based on the placement of text.
 
